@@ -1,0 +1,115 @@
+*{
+  margin:0;
+  box-sizing: border-box;
+}
+
+.back{
+  background-image: url(Back.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+
+.cent{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+}
+
+.cont{
+  text-align: center;
+  position: relative;
+  margin: auto;
+  width: 740px;
+}
+
+.label{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 2px 2px 2px 2px;
+  border: 1px solid white;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+}
+
+.city{
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px 10px 10px 10px;
+  border: 3px solid rgb(255, 150, 0);
+  display: inline-block;
+  margin: 15px;
+  height: 113px;
+  width: 150px;
+  position: relative;
+}
+
+.Roma{
+  background-image: url(Roma.jpg);
+}
+
+.Barcellona{
+  background-image: url(Barcellona.jpg);
+}
+
+.Ierapetra{
+  background-image: url(Ierapetra.jpg);
+}
+
+.Tunisi{
+  background-image: url(Tunisi.jpg);
+}
+
+.Mosca{
+  background-image: url(Mosca.webp);
+}
+
+.Rio{
+  background-image: url(Rio.jpg);
+}
+
+.Curaçao{
+  background-image: url(Curaçao.jpeg);
+}
+
+.Bangkok{
+  background-image: url(Bangkok.jpg);
+}
+
+.LasVegas{
+  background-image: url(LasVegas.jpeg);
+}
+
+.Alessandria{
+  background-image: url(Alessandria.jpg);
+}
+
+.Reykjavik{
+  background-image: url(Reykjavik.jpg);
+}
+
+.Bahamas{
+  background-image: url(Bahamas.jpg);
+}
+
+.Townsville{
+  background-image: url(Townsville.jpg);
+}
+
+.Toronto{
+  background-image: url(Toronto.jpeg);
+}
+
+.Budapest{
+  background-image: url(Budapest.jpg);
+}
+
+.Lauterbrunnen{
+  background-image: url(Lauterbrunnen.jpg);
+}
